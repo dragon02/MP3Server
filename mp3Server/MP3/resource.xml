@@ -1,0 +1,16 @@
+<resources>
+  <resource>
+  	<id>0001</id>
+  	<mp3_name>a1.mp3</mp3_name>
+  	<mp3_size>4051</mp3_size>
+  	<lrc_name>a1.lrc</lrc_name>
+  	<lrc_size>2</lrc_size>
+  </resource>
+  <resource>
+  	<id>0002</id>
+  	<mp3_name>b1.mp3</mp3_name>
+  	<mp3_size>5251</mp3_size>
+  	<lrc_name>b1.lrc</lrc_name>
+  	<lrc_size>2</lrc_size>
+  </resource>
+</resources>
